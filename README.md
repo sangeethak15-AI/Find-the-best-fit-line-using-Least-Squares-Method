@@ -57,11 +57,6 @@ plt.show()
 ```
 
 ## Output:
-![me1](https://user-images.githubusercontent.com/93992063/193417745-0b31710e-9afa-4e36-9314-954a7ee698a7.png)
-
-![me2](https://user-images.githubusercontent.com/93992063/193417751-9664305a-35c3-48e1-a689-8782af7e0b02.png)
-
-![me3](https://user-images.githubusercontent.com/93992063/193417761-3d6d6d18-cdb6-4e12-893f-881ca6225fd8.png)
 
 ![me5](https://user-images.githubusercontent.com/93992063/193417779-62bcd821-ae50-4beb-8b89-078c7c92a7dd.png)
 
